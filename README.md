@@ -84,3 +84,34 @@ Lab title: Implement Azure Logic Apps Integration with Azure Event Grid
 
 - Current file name: **Module_13_Lab_a.md**
 - Previous file name: LAB_04_Manage Compute_PaaS.md
+
+# Lab flow (previous)
+
+Lab title: Implementing Highly Available Azure IaaS Compute Architecture
+Lab title: Implementing Containers on Azure
+- Previous file name: LAB_01_Deploying Azure IaaS Solutions.md
+
+Lab title: Implementing and Configuring Azure Storage File and Blob Services
+Lab title: Migrating Hyper-V VMs to Azure by using Azure Migrate
+- Previous file name: LAB_02_Data Storage.md
+
+Lab title: Implementing Azure SQL Database-Based Applications
+- Previous file name: LAB_03_Data Storage.md
+
+Lab title: Implement Azure Logic Apps Integration with Azure Event Grid
+- Previous file name: LAB_04_Manage Compute_PaaS.md
+
+Lab title: Implementing an Azure App Service Web App with a Staging Slot
+- Previous file name: LAB_05_Manage Compute_PaaS.md
+
+Lab title: Protecting Hyper-V VMs by using Azure Site Recovery
+- Previous file name: LAB_07_Migrating to Azure.md
+
+Lab title: Configuring a Message-Based Integration Architecture
+- Previous file name: LAB_09_Migrating to Azure.md
+
+Lab title: Managing Azure AD Authentication and Authorization
+- Previous file name: LAB_10_Security.md
+
+Lab title: Managing Azure Role-Based Access Control
+- Previous file name: LAB_11_Security.md
